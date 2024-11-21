@@ -1,8 +1,8 @@
-<img height="250" width ="4000" src="https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif">
+<img height="250" width ="4000" src="https://c.tenor.com/5ry-200hErMAAAAd/tenor.gif">
 
 <h1 align="center">Hi 👋, I'm Mohamed Aflal</h1>
 <h3 align="center">AI/ML Engineer | AI & DATA Scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/5ry-200hErMAAAAd/tenor.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7a/9b/80/7a9b8077fd3b55d8ab72bdb6864f9448.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedaflal26&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedaflal26" /> </p>
 

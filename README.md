@@ -1,3 +1,5 @@
+<img height="250" width ="4000" src="https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif">
+
 <h1 align="center">Hi 👋, I'm Mohamed Aflal</h1>
 <h3 align="center">AI/ML Engineer | AI & DATA Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/5ry-200hErMAAAAd/tenor.gif">
